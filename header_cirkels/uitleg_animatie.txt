@@ -1,0 +1,8 @@
+ik heb een animatie gemaakt met als naam ColorRotation 
+die heeft als filter hue-rotate
+hij begint op 0 dus dan start hij op de standaard kleur die we aan de cirkel hebben gegeven
+daarna draait hij een rondje op de kleurencirkel 
+en dat draaien hebben we op infinite gezet
+
+
+het leukste vond ik om te leren hoe deze animaties werkte zoals die van de cirkels en de popup animatie 
